@@ -1,10 +1,15 @@
 # CODTECH-task2
 
 Name: Gayathri G
+
 Company: CODTECH IT SOLUTIONS
+
 ID: CT08DS7219
+
 Domain: Full Stack Development
+
 Duration: August to September 2024
+
 
 **Blogify:**
 
